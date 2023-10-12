@@ -1,6 +1,7 @@
 function Register() {
     return ( 
         <>
+        Register
         </>
     );
 }
